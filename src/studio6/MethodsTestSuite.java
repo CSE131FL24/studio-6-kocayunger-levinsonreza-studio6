@@ -16,4 +16,4 @@ import studio6.tests.RecursiveToReversedTestSuite;
 		RecursiveToReversedTestSuite.class, })
 public class MethodsTestSuite {
 
-}
+} 

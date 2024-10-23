@@ -33,7 +33,7 @@ public class IterativeMethods {
 				// note:
 				// since we read from array and write to reversed
 				// we do not need to use a temp variable
-				reversed[index] = array[mirrorIndex];
+				reversed[index] = array[mirrorIndex]; 
 				reversed[mirrorIndex] = array[index];
 			}
 		}

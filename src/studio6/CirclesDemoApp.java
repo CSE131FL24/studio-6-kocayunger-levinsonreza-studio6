@@ -44,7 +44,7 @@ public class CirclesDemoApp {
 					sb.append("VVV expected image VVV");
 					icon = iconOpt.get();
 				} else {
-					sb.append("expected image not available");
+	 				sb.append("expected image not available");
 					icon = null;
 				}
 				sb.append("</center>");
